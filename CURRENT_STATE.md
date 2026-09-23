@@ -1,11 +1,10 @@
 # Current State
 
-- **Goal:** Write a practical robotics book that supports learning by building and experimenting.
-- **Current Version:** Initial repository scaffold; no chapter is represented here as complete.
-- **What Works:** The project direction and an initial collaborative writing milestone are identified.
-- **What Doesn't Work:** The full outline, audience, chapter sequence, and tested exercises are not yet documented.
-- **Current Hardware:** Robotics kit and educational robot are related projects; book-specific hardware is not yet defined.
-- **Current Software:** No code examples are documented yet.
-- **Current Problems:** The learning sequence and chapter scope need to be developed through writing and testing.
+- **Goal:** Write a practical robotics book that helps readers learn through explanation, exercises, and experimentation.
+- **Current Version:** Initial editorial structure; no chapter is marked complete in this repository yet.
+- **What Works:** The project direction and a collaborative first-chapter milestone are identified.
+- **What Doesn't Work:** The full audience, outline, chapter sequence, and tested activities are not yet established.
+- **Current Content:** No finished manuscript, exercises, or validated illustrations are documented yet.
+- **Current Problems:** The learning sequence and chapter scope need to develop through drafting and reader feedback.
 - **Next Milestone:** Draft and complete at least Chapter 1 with a collaborator.
-- **Future Ideas:** Test chapters with learners and refine explanations and exercises from their feedback.
+- **Future Ideas:** Try chapters with learners, record where they get stuck, and revise explanations and activities from that feedback.

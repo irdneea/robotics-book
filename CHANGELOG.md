@@ -2,5 +2,4 @@
 
 ## Unreleased
 
-- Initial project scaffold and current-state documentation.
-
+- Reorganized the repository around book writing, exercises, references, visual assets, and teaching feedback.

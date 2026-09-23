@@ -1,16 +1,23 @@
 # Robotics Book
 
-A collaborative project to create a practical robotics book. The content and learning path will develop through writing, building, and trying the material with learners.
+A collaborative, hands-on robotics book project. The book will take shape through drafting, building examples, and trying the material with learners. Its scope is broader than electronics: chapters may include mechanical design, programming, sensing, control, experimentation, and the connections between them.
 
-## Current scope
+## Start here
 
-The first near-term milestone is to complete at least Chapter 1 with a friend. The book is one part of a broader robotics learning effort, alongside the robotics kit and educational robot.
+- [Current state](CURRENT_STATE.md) — what is known and the next milestone.
+- [Book outline](docs/outline.md) — planned learning path (evolving).
+- [Style guide](docs/style-guide.md) — writing and terminology conventions.
+- [Chapter template](docs/chapter-template.md) — starting point for new chapters.
 
-## Repository structure
+## Project structure
 
-- `docs/` — outline, chapter drafts, references, and editorial notes.
-- `hardware/` — designs and experiments referenced by the book.
-- `software/` — code examples and supporting tools.
-- `media/` — diagrams, photos, and illustrations.
+- `manuscript/` — book text, organized by front matter, chapters, and appendices.
+- `exercises/` — activities, problems, and answer or facilitator notes.
+- `assets/` — original figures, diagrams, and other book visuals.
+- `references/` — bibliography and reading notes.
+- `teaching-notes/` — observations from trying material with learners; avoid personal student data.
+- `docs/` — outline, editorial decisions, and project documentation.
 
-See [CURRENT_STATE.md](CURRENT_STATE.md). Chapters and claims should be revised as the material is tested.
+## Contributing to the book
+
+Draft chapters in `manuscript/chapters/` using the chapter template. Keep sources and licensing information with externally sourced material. Mark untested activities as drafts; do not imply an exercise or explanation has been validated until it has been tried.
